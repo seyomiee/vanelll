@@ -16,9 +16,11 @@
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
+<img src="https://img.shields.io/badge/-Nodejs-yellow"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A"/>
+<img src="https://img.shields.io/badge/-Arduino-00979D"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
