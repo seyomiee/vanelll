@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A"/>
-<img src="https://img.shields.io/badge/-Arduino-00979D"/>
+ <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=React&logoColor=RaspberryPi"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=React&logoColor=Arduino"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
