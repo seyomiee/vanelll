@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=✨ ✨&fontColor=auto&fontSize=50)
+
 
 <h3 align="center">🚀 TECH STACK </h3>
 <p align="center"> I've used at least once </p>
